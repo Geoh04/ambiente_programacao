@@ -99,7 +99,7 @@ Faça o download aqui:
 <img src=17_.png width=500 height=250>
 
 - Tela de fim da instalação
-<img src=18_.png width=500 height=250>
+<img src=i18_.png width=500 height=250>
 
 
 
