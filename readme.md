@@ -93,7 +93,7 @@ Faça o download aqui:
 <img src=15_.png width=500 height=250>
 
 - Tela de configuração do usuario
-<img src=16-.png width=500 height=250>
+<img src=16_.png width=500 height=250>
 
 - Tela de configuração de SSH
 <img src=17_.png width=500 height=250>
@@ -101,9 +101,49 @@ Faça o download aqui:
 - Tela de fim da instalação
 <img src=i18_.png width=500 height=250>
 
+#### Atualização do Sistema
+Para a correta utilização do servirdor Ubuntu que acabamos de instalar, será nescessário realizar a atualização do sistema.
 
+Execute o comando abaixo:
 
+```
+sudo apt update -y && sudo apt upgrade -y 
+```
+Reinicie o seu servirdor usando o comando abaixo: 
 
+```
+reboot
+```
+
+#### Instalação do compilador Nasm
+
+O copilador NASM é uma ferramenta que nos permite programar em Assembly. Assim é possivel criar programas que manipulam dados que estão nos registradores do processador.
+
+Para instalar o NASM no Ubuntu, usamos o comando: 
+
+```
+sudo apt install nasm -y
+```
+
+#### Instalação  do compilador da linguagem C
+
+Em Linux, ocompilador da linguagem C é o GCC. Ele é uma ferramenta importante para o desenvolvimento de programas em C.
+
+Para instalar use o comando: 
+
+```
+sudo apt install gcc -y
+```
+
+#### Conexão servidor e VSCode via SSH
+
+Presisamos instalar uma extensão no VSCode para acessar o nosso servidor de forma remota.
+
+!["Extensão SSH"](19_extensao_ssh.png)
+
+Configuração do acesso remoto.
+
+!["Configuração"](20_configurar_extensao.png)
 
 
 
