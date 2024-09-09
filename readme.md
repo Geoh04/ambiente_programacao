@@ -37,22 +37,22 @@ Para instalar, basta fazer o download no link a seguir :
 
 
 - Tela inicial de configuração
-<img src=tela_inicial_de_configuracao.png width=500 height=250>
+<img src=01_tela_inicial_de_configuracao.png width=500 height=250>
 
 - Tela de configuração do Hardware
-<img src=tela_de_configuracao_02.png width=500 height=250>
+<img src=02_tela_de_configuracao.png width=500 height=250>
 
 - Tela de configuração de Disco
-<img src=tela_de_configuracao_03.png width=500 height=250>
+<img src=03_tela_de_configuracao.png width=500 height=250>
 
 - Tela de final configuração 
-<img src=tela_de_configuracao_04.png width=500 height=250>
+<img src=04_tela_de_configuracao.png width=500 height=250>
 
 - Tela inicial de configuração de Rede
-<img src=tela_de_configuracao_part2_05.png width=500 height=250>
+<img src=05_tela_de_configuracao.png width=500 height=250>
 
 - Tela de configuração de Portas e IP
-<img src=tela_de_configuracao_part2_6.png width=500 height=250>
+<img src=06_tela_de_configuracao.png width=500 height=250>
 
 ## Distribuição Ubuntu Server
 <img src=logo.webp width=200 heght=200>
@@ -99,7 +99,7 @@ Faça o download aqui:
 <img src=17_configuracaossh.png width=500 height=250>
 
 - Tela de fim da instalação
-<img src=18_fiminstalacao.png width=500 height=250>
+<img src=18_fimdainstalacao.png width=500 height=250>
 
 #### Atualização do Sistema
 Para a correta utilização do servirdor Ubuntu que acabamos de instalar, será nescessário realizar a atualização do sistema.
