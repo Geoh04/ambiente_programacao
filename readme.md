@@ -66,40 +66,40 @@ Faça o download aqui:
 #### Acompanhe a instalação
 
 - Tela de inicio de instalação
-<img src=07_.png width=500 height=250>
+<img src=07_instalacao.png width=500 height=250>
 
 - Tela de idioma
-<img src=08_.png width=500 height=250>
+<img src=08_idioma.png width=500 height=250>
 
 - Tela de teclado
-<img src=09_.png width=500 height=250>
+<img src=09_teclado.png width=500 height=250>
 
 - Tela de tipo de instalação
-<img src=10_.png width=500 height=250>
+<img src=10_instalacao.png width=500 height=250>
 
 - Tela de configuração de rede
-<img src=11_.png width=500 height=250>
+<img src=11_rede.png width=500 height=250>
 
 - Tela de configuração de proxy
-<img src=12_.png width=500 height=250>
+<img src=12_proxy.png width=500 height=250>
 
 - Tela pacotes de atualização
-<img src=13_.png width=500 height=250>
+<img src=13_atualizacao.png width=500 height=250>
 
 - Tela de configuração de disco
-<img src=14_.png width=500 height=250>
+<img src=14_disco.png width=500 height=250>
 
 - Tela de layout de disco
-<img src=15_.png width=500 height=250>
+<img src=15_layoutdisco.png width=500 height=250>
 
 - Tela de configuração do usuario
-<img src=16_.png width=500 height=250>
+<img src=16_usuario.png width=500 height=250>
 
 - Tela de configuração de SSH
-<img src=17_.png width=500 height=250>
+<img src=17_configuracaossh.png width=500 height=250>
 
 - Tela de fim da instalação
-<img src=i18_.png width=500 height=250>
+<img src=18_fiminstalacao.png width=500 height=250>
 
 #### Atualização do Sistema
 Para a correta utilização do servirdor Ubuntu que acabamos de instalar, será nescessário realizar a atualização do sistema.
